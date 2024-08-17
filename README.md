@@ -6,8 +6,8 @@ Analyze the sales trend with three locations, Identify the highest performing pr
 
 ## About the Data
 ## Field 	          ## Description
-1.transaction_id	  Unique sequential ID representing an individual transaction
-2.transaction_date	Date of the transaction (MM/DD/YY)
+1.**transaction_id**	  Unique sequential ID representing an individual transaction
+2.**transaction_date**	Date of the transaction (MM/DD/YY)
 3.transaction_time	Timestamp of the transaction (HH:MM:SS)
 4.transaction_qty	  Quantity of items sold
 5.store_id	        Unique ID of the coffee shop where the transaction took place
