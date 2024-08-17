@@ -10,13 +10,13 @@ Analyze the sales trend with three locations, Identify the highest performing pr
 2.  **transaction_date:**	Date of the transaction (MM/DD/YY)
 3.**transaction_time:**	Timestamp of the transaction (HH:MM:SS)
 4.**transaction_qty:**	  Quantity of items sold
-5.store_id	        Unique ID of the coffee shop where the transaction took place
-6.store_location	  Location of the coffee shop where the transaction took place
-7.product_id	      Unique ID of the product sold
-8.unit_price	      Retail price of the product sold
-9.product_category	Description of the product category
-10.product_type	    Description of the product type
-11.product_detail	  Description of the product detail
+5.**store_id:**	        Unique ID of the coffee shop where the transaction took place
+6.**store_location:**	  Location of the coffee shop where the transaction took place
+7.**product_id:**	      Unique ID of the product sold
+8.**unit_price:**	      Retail price of the product sold
+9.**product_category:**	Description of the product category
+10.**product_type:**	    Description of the product type
+11.**product_detail:**	  Description of the product detail
 
 ## Project Details
 
