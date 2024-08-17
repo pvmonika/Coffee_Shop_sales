@@ -18,3 +18,10 @@ Analyze the sales trend with three locations, Identify the highest performing pr
 10.product_type	    Description of the product type
 11.product_detail	  Description of the product detail
 
+## Project Details
+
+- **Version:** 1.2.3
+- **Release Date:** August 17, 2024
+- **Supported Platforms:** Windows, macOS, Linux
+
+
