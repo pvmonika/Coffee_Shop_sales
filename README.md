@@ -5,7 +5,7 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 Analyze the sales trend with three locations, Identify the highest performing product based on the Month, day, and category which helps in strategic decision-making regarding inventory, promotions, and marketing efforts.
 
 ## About the Data
-## Field 	          ## Description
+## Field 	        
 1.  **transaction_id:**	  Unique sequential ID representing an individual transaction
 2.  **transaction_date:**	Date of the transaction (MM/DD/YY)
 3.  **transaction_time:**	Timestamp of the transaction (HH:MM:SS)
