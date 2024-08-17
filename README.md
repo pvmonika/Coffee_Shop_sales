@@ -24,4 +24,12 @@ Analyze the sales trend with three locations, Identify the highest performing pr
 - **Release Date:** August 17, 2024
 - **Supported Platforms:** Windows, macOS, Linux
 
+- ## Configuration Parameters
+
+1. **Max Connections:** 100
+2. **Timeout Duration:** 30 seconds
+3. **Retry Attempts:** 5
+
+
+
 
